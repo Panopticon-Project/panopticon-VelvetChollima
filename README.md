@@ -19,3 +19,5 @@ https://us-cert.cisa.gov/ncas/alerts/aa20-301a
 https://securityaffairs.co/wordpress/108979/apt/north-korea-hit-un-security-council.html
 
 https://us-cert.cisa.gov/ncas/alerts/aa20-301a
+
+https://www.darkreading.com/operations/how-north-korean-apt-kimsuky-is-evolving-its-tactics/d/d-id/1340956?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple
